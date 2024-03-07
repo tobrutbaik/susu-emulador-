@@ -1,30 +1,5 @@
------
 
-**This App Not Moddified But Original App**
-
-**Enjoy**
-
-**Full Changelog Alpha V.19**
-
-(https://github.com/XForYouX/Yuzu-Android-9/releases/tag/Alpha-V.19)
-
-**Full Changelog NCE V.275**
-
-(https://github.com/XForYouX/Yuzu-Android-9/releases/tag/V.275)
-
-| Pull Request | Commit | Title | Author | Merged? |
-|----|----|----|----|----|
-| [12461](https://github.com/yuzu-emu/yuzu//pull/12461) | [`a84e8e26f`](https://github.com/yuzu-emu/yuzu//pull/12461/files) | Rework Nvdec and VIC to fix out-of-order videos, and speed up decoding. | [Kelebek1](https://github.com/Kelebek1/) | Yes |
-| [13018](https://github.com/yuzu-emu/yuzu//pull/13018) | [`01cbc638a`](https://github.com/yuzu-emu/yuzu//pull/13018/files) | am: rewrite part 2 | [liamwhite](https://github.com/liamwhite/) | Yes |
-| [13174](https://github.com/yuzu-emu/yuzu//pull/13174) | [`7d1284826`](https://github.com/yuzu-emu/yuzu//pull/13174/files) | glue/time: Remove global variables | [FearlessTobi](https://github.com/FearlessTobi/) | Yes |
-| [13177](https://github.com/yuzu-emu/yuzu//pull/13177) | [`f5cc94f05`](https://github.com/yuzu-emu/yuzu//pull/13177/files) | vfs: misc performance improvements | [liamwhite](https://github.com/liamwhite/) | Yes |
-
-
-End of merge log. You can find the original README.md below the break.
-
------
-
-<h4 align="center"><b>yuzu</b> is the world's most popular, open-source, Nintendo Switch emulator — started by the creators of <a href="https://citra-emu.org" target="_blank">Citra</a>.
+<h4 align="center"><b>susu</b> is the world's most popular, open-source, Nintendo Switch emulator — started by the creators of <a href="https://citra-emu.org" target="_blank">Citra</a>.
 <br>
 It is written in C++ with portability in mind, and we actively maintain builds for Windows, Linux and Android.
 </h4>
@@ -39,8 +14,6 @@ It is written in C++ with portability in mind, and we actively maintain builds f
   <a href="#compatibility">Compatibility</a> |
   <a href="#development">Development</a> |
   <a href="#building">Building</a> |
-  <a href="#download">Download</a> |
-  <a href="#support-playstore">Support Via Playstore</a> |
   <a href="#license">License</a>
 </p>
 
